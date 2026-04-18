@@ -38871,11 +38871,19 @@ return new A.dl(B.Dl,A.are(b,A.apq(s,B.tz,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s
 N(a){var s,r,q=this,p=null,o=q.Dw("S\u1ed1/K\xfd hi\u1ec7u",q.d),n=q.Dw("Ng\xe0y ban h\xe0nh",q.e),m=q.x,l=q.w,k=A.a_(l).i("a8<1,i8<D>>")
 l=A.a0(new A.a8(l,new A.aeE(),k),k.i("al.E"))
 k=t.F
+<<<<<<< HEAD
 l=A.aqI(A.d([A.al4(A.ayl(m,l,new A.aeF(q),t.N)),B.y2,A.al4(A.are(q.f,B.E_,p)),B.y2,A.aoW(B.Rh,q.gacj())],k),B.bL,B.c8,B.jU)
 m=q.Dw("Link PDF",q.r)
 s=A.aoW(B.Ri,q.gUO())
 r=q.y.length
 return new A.yr(new A.uz(B.Rj,new A.PK(p,p,1/0,56),p),new A.dl(B.mq,A.akP(A.d([o,n,l,B.y3,m,s,B.y3,A.al4(new A.wU(new A.a8p(new A.aeG(q),r,!0,!0,!0,p),p,B.aJ,!1,p,p,B.lf,!1,p,r,B.az,p,p,B.a6,B.at,p))],k),B.bL,B.c8,B.jU),p),p)}}
+=======
+l=A.aqI(A.d([A.al4(A.ayl(m,l,new A.aeF(q),t.N)),B.y2,A.al4(A.are(q.f,B.E_,p)),B.y2,A.aoW(B.Ri,q.gacj())],k),B.bL,B.c8,B.jU)
+m=q.Dw("Link PDF",q.r)
+s=A.aoW(B.Rj,q.gUO())
+r=q.y.length
+return new A.yr(new A.uz(B.Rh,new A.PK(p,p,1/0,56),p),new A.dl(B.mq,A.akP(A.d([o,n,l,B.y3,m,s,B.y3,A.al4(new A.wU(new A.a8p(new A.aeG(q),r,!0,!0,!0,p),p,B.aJ,!1,p,p,B.lf,!1,p,r,B.az,p,p,B.a6,B.at,p))],k),B.bL,B.c8,B.jU),p),p)}}
+>>>>>>> e7037ca3573953cb842b7cbbab0c581134450375
 A.aeI.prototype={
 $0(){var s=this.a,r=s.w=$.atu
 s.x=r.length!==0?r[0]:null},
@@ -83504,9 +83512,15 @@ B.Q8=new A.t(!0,B.I,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Qq=new A.t(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.O7=new A.t(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Rg=new A.dP(B.Pw,B.OG,B.Px,B.PT,B.Oq,B.Ox,B.OX,B.PP,B.P6,B.Qb,B.O0,B.Of,B.Q8,B.Qq,B.O7)
+<<<<<<< HEAD
 B.Rh=new A.lJ("Th\xeam",null,null,null,null,null,null,null,null)
 B.Ri=new A.lJ("T\u1ea1o m\xe3",null,null,null,null,null,null,null,null)
 B.Rj=new A.lJ("Tr\u1ecbnh H\u1eefu Ph\u01b0\u01a1ng",null,null,null,null,null,null,null,null)
+=======
+B.Rh=new A.lJ("Tr\u1ecbnh H\u1eefu Ph\u01b0\u01a1ng - CreateLinkPDF",null,null,null,null,null,null,null,null)
+B.Ri=new A.lJ("Th\xeam",null,null,null,null,null,null,null,null)
+B.Rj=new A.lJ("T\u1ea1o m\xe3",null,null,null,null,null,null,null,null)
+>>>>>>> e7037ca3573953cb842b7cbbab0c581134450375
 B.J9=new A.f(0.056,0.024)
 B.Jn=new A.f(0.108,0.3085)
 B.J6=new A.f(0.198,0.541)
